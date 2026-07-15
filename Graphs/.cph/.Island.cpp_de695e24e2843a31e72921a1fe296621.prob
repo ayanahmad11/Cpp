@@ -1,0 +1,1 @@
+{"name":"Local: Island","url":"/Users/ayanahmed/Documents/AZ_Premium/Graphs/Island.cpp","tests":[{"id":1783838967979,"input":"1\n6 6\nS . # . . .\n. . # . . .\n# . # . # .\n. . . . # .\n# # # # . .\nF . . . . .","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ayanahmed/Documents/AZ_Premium/Graphs/Island.cpp","group":"local","local":true}
