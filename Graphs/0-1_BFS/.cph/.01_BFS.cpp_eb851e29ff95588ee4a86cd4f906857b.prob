@@ -1,0 +1,1 @@
+{"name":"Local: 01_BFS","url":"/Users/ayanahmed/Documents/AZ_Premium/Graphs/0-1_BFS/01_BFS.cpp","tests":[{"id":1789195405895,"input":"1\n4 4\n1 2 1\n2 3 1\n1 3 0\n1 4 1\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ayanahmed/Documents/AZ_Premium/Graphs/0-1_BFS/01_BFS.cpp","group":"local","local":true}
